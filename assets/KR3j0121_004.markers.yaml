@@ -190,6 +190,7 @@ markers:
       ', id: KR3j0121_krp_004-bkkkrnewl41}
   - {type: line-break, offset: 659, content: '', id: KR3j0121_WYG_004-3a06}
   - {type: punctuation, offset: 668, content: (, id: KR3j0121_krp_004-bkkpn1}
+  - {type: voice, offset: 668, length: 1, name: note, id: n1}
   - {type: punctuation, offset: 669, content: /, id: KR3j0121_krp_004-bkkpn2}
   - {type: punctuation, offset: 669, content: ), id: KR3j0121_krp_004-bkkpn3}
   - {type: 'kr:newline', offset: 678, content: '
@@ -591,6 +592,7 @@ markers:
   - {type: substitution, offset: 2149, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: substitution, offset: 2150, original: 彊, replacement: 強, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-17539}}
   - {type: punctuation, offset: 2152, content: (, id: KR3j0121_krp_004-bkkpn4}
+  - {type: voice, offset: 2152, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 2154, content: /, id: KR3j0121_krp_004-bkkpn5}
   - {type: punctuation, offset: 2154, content: ), id: KR3j0121_krp_004-bkkpn6}
   - {type: 'kr:newline', offset: 2157, content: '
@@ -603,6 +605,7 @@ markers:
   - {type: line-break, offset: 2178, content: '', id: KR3j0121_WYG_004-8a06}
   - {type: substitution, offset: 2189, original: 晁, replacement: 朝, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19766}}
   - {type: punctuation, offset: 2192, content: (, id: KR3j0121_krp_004-bkkpn7}
+  - {type: voice, offset: 2192, length: 2, name: note, id: n3}
   - {type: punctuation, offset: 2194, content: /, id: KR3j0121_krp_004-bkkpn8}
   - {type: punctuation, offset: 2194, content: ), id: KR3j0121_krp_004-bkkpn9}
   - {type: 'kr:newline', offset: 2199, content: '
@@ -748,6 +751,7 @@ markers:
   - {type: line-break, offset: 2739, content: '', id: KR3j0121_WYG_004-10a02}
   - {type: substitution, offset: 2742, original: 隠, replacement: 隱, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20614}}
   - {type: punctuation, offset: 2743, content: (, id: KR3j0121_krp_004-bkkpn10}
+  - {type: voice, offset: 2743, length: 2, name: note, id: n4}
   - {type: punctuation, offset: 2745, content: /, id: KR3j0121_krp_004-bkkpn11}
   - {type: punctuation, offset: 2745, content: ), id: KR3j0121_krp_004-bkkpn12}
   - {type: 'kr:newline', offset: 2754, content: '
@@ -874,6 +878,7 @@ markers:
       ', id: KR3j0121_krp_004-bkkkrnewl191}
   - {type: line-break, offset: 3159, content: '', id: KR3j0121_WYG_004-11b03}
   - {type: punctuation, offset: 3169, content: (, id: KR3j0121_krp_004-bkkpn13}
+  - {type: voice, offset: 3169, length: 2, name: note, id: n5}
   - {type: punctuation, offset: 3171, content: /, id: KR3j0121_krp_004-bkkpn14}
   - {type: punctuation, offset: 3171, content: ), id: KR3j0121_krp_004-bkkpn15}
   - {type: 'kr:newline', offset: 3180, content: '
@@ -985,6 +990,7 @@ markers:
       ', id: KR3j0121_krp_004-bkkkrnewl214}
   - {type: line-break, offset: 3509, content: '', id: KR3j0121_WYG_004-12b08}
   - {type: punctuation, offset: 3521, content: (, id: KR3j0121_krp_004-bkkpn16}
+  - {type: voice, offset: 3521, length: 1, name: note, id: n6}
   - {type: punctuation, offset: 3522, content: /, id: KR3j0121_krp_004-bkkpn17}
   - {type: punctuation, offset: 3522, content: ), id: KR3j0121_krp_004-bkkpn18}
   - {type: 'kr:newline', offset: 3530, content: '
@@ -1156,4 +1162,4 @@ markers:
 
       ', id: KR3j0121_krp_004-bkkkrnewl251}
   back: []
-hash: sha256:6147287b09087675e187944ad51c9a9b852e0e767b100d189775b99b3a64d2fd
+hash: sha256:a053c9ea08d551ef3e5c8ab30ad6724cf055793fb852be8d4b1b8a54ee5034cd
